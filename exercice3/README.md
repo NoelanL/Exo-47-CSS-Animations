@@ -2,12 +2,12 @@ Exercice 3 :
 
     - Creer une animation comportant 5 étapes ( 0%,25%,50%,75%,100% )
 
-    0% - Définir un fond rouge, left à 0px et top à 0px
-    25% - Définir un fond bleu, left à 0px, top à 200px
-    50% - Définir un fond vert, left à 200px, top à 200px
-    75% - Définir un fond jaune , left à 200px, top à 0px
-    100% - Définir un fond rouge, left à 0px et top à 0px
-
+   
+0% - Définir un fond rouge, left à 0px et top à 0px
+25% - Définir un fond bleu, left à 0px, top à 200px
+50% - Définir un fond vert, left à 200px, top à 200px
+75% - Définir un fond jaune , left à 200px, top à 0px
+100% - Définir un fond rouge, left à 0px et top à 0px
 
 
 Théorie :

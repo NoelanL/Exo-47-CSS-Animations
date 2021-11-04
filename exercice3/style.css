@@ -8,6 +8,40 @@
 }
 
 @keyframes exercice3 {
+    0%{
+        background-color: red;
+        left: 0;
+        top: 0;
+    }
 
+    25%{
+        background-color: blue;
+        left: 0;
+        top: 200px;
+    }
 
+    50%{
+        background-color: green;
+        left: 200px;
+        top: 200px;
+    }
+
+    75%{
+        background-color: yellow;
+        left: 200px;
+        top: 0;
+    }
+
+    100%{
+        background-color: red;
+        left: 0;
+        top: 0;
+    }
 }
+
+
+0% - Définir un fond rouge, left à 0px et top à 0px
+25% - Définir un fond bleu, left à 0px, top à 200px
+50% - Définir un fond vert, left à 200px, top à 200px
+75% - Définir un fond jaune , left à 200px, top à 0px
+100% - Définir un fond rouge, left à 0px et top à 0px
